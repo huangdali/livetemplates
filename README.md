@@ -1,5 +1,4 @@
-##Android Studio Live Templates使用详解，提高敲代码的速度
->转载请注明出处，大力哥的博客，http://blog.csdn.net/qq137722697
+## Android Studio Live Templates使用详解，提高敲代码的速度
 
 
 本篇将从 Live Templates简介，常用AS自带模板，自定义模板三个方面开展介绍，并且只介绍 Live Templates中java代码方面的使用，其余感觉不是很常用，看完这篇之后你可以自己研究一下。
@@ -288,5 +287,3 @@ TextUtils.isEmpty($content$);
 ## 最后
 
 福利，这篇文章是本人在给组内同事培训时制作的ppt修改而来，我将ppt共享出来，如果你有这个需求也可以下来修改修改。下载地址：https://github.com/huangdali/livetemplates
-
-转载请注明出处，大力哥的博客，http://blog.csdn.net/qq137722697
